@@ -1,9 +1,10 @@
 import React from 'react'
 import {Routes, Route} from 'react-router-dom';
+import Navbar from '../Components/Navbar';
 function Routing() {
   return (
     <>
-    <div className='navbar'></div>
+    <Navbar/>
     <Routes>
         <Route path='/'  />
     </Routes>
