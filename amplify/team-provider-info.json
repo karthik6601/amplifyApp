@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "amplifyappc3cba9d7": {}
+      },
+      "api": {
+        "amplifyapp": {}
       }
     }
   }
